@@ -12,3 +12,6 @@
 - detect.py: This is a main program control file which calls above 2 files.
 
 To run program, clone this repository and run 'detect.py' file.
+
+
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/22048905/62411108-7167c680-b60c-11e9-84e1-0d6dfb19755b.gif)
